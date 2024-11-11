@@ -1,0 +1,1 @@
+console.log("slam ya abn 7abita🥱");
